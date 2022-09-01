@@ -1,4 +1,4 @@
-# Paytm UI Clone by Tailwind CSS
+# Rode UI Clone by Tailwind CSS
 
 ![clone](https://img.shields.io/badge/Clone-Project-red)![2](https://img.shields.io/badge/Technologies-HTML%2FCSS%2FTailwind-blue)![3](https://img.shields.io/badge/Multi%20Device-Responsive-green)
 
@@ -10,7 +10,7 @@
 
 ## Preview
 
-![Paytm](./Images/Rode%20UI.png)
+![Rode](./Images/Rode%20UI.png)
 
 ## Project Description and Learnings
 
