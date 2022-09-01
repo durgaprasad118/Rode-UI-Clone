@@ -29,3 +29,4 @@ If you have any feedback, please reach me at
 [durgaprasadachana1108@gmail.com](mailto:durgaprasadachana1108@gmail.com)
 
 <a href='https://www.linkedin.com/in/dp1108/' target="_blank"><img alt='Linkedin' src='https://img.shields.io/badge/Linkedin-100000?style=flat&logo=Linkedin&logoColor=white&labelColor=111FDD&color=1A1ADD'/></a>
+<a href='https://www.instagram.com/__durgaprasad__/?r=nametag' target="_blank"><img alt='instagram' src='https://img.shields.io/badge/Instagram-100000?style=flat&logo=instagram&logoColor=white&labelColor=FF4E59&color=F44A4A'/></a>
