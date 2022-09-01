@@ -6,7 +6,7 @@
 
 ## Live Link
 
-[Rode-Clone](https://paytm-ui-clone-dp.netlify.app/)
+[Rode-Clone](https://rode-ui-clone-dp1108.netlify.app/)
 
 ## Preview
 
